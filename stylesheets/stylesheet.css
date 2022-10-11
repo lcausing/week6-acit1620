@@ -26,9 +26,10 @@ ul > li:first-child::first-letter{
 a[title="BCIT homepage"]{
     background-color: yellow;
 } */
-img{
+
+/* img{
     float: left;
 }
 .below{
     clear:left
-}
+} */
